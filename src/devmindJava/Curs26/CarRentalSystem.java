@@ -115,6 +115,7 @@ public class CarRentalSystem {
         System.out.println("remove       - Sterge o masina existenta din hashtable");
         System.out.println("getOwner     - Afiseaza proprietarul curent al masinii");
         System.out.println("listCarsOwner - Afiseaza masinile unui proprietar");
+        System.out.println("reset         - Reseteaza lista.");
         System.out.println("totalCarsOwner - Afiseaza numarul de masini ale unui proprietar");
         System.out.println("totalRented  - Afiseaza numarul total de masini inchiriate");
         System.out.println("quit         - Inchide aplicatia");
